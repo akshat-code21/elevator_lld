@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1627" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1502" dy="1014" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -310,11 +310,11 @@
         <mxCell id="UiMmUJLFEJEY-4v1IqWj-109" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UiMmUJLFEJEY-4v1IqWj-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startSize=16;endArrow=diamond;endFill=1;endSize=16;" target="UiMmUJLFEJEY-4v1IqWj-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UiMmUJLFEJEY-4v1IqWj-99" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="ElevatorCallStrategy" vertex="1">
-          <mxGeometry height="52" width="450" x="910" y="580" as="geometry" />
+        <mxCell id="UiMmUJLFEJEY-4v1IqWj-99" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&amp;lt;&amp;lt;interface&amp;gt;&amp;gt;&lt;/div&gt;ElevatorCallStrategy" vertex="1">
+          <mxGeometry height="66" width="450" x="910" y="573" as="geometry" />
         </mxCell>
         <mxCell id="UiMmUJLFEJEY-4v1IqWj-102" parent="UiMmUJLFEJEY-4v1IqWj-99" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Elevator selectElevator(OutsideRequest or,List&amp;lt;Elevator&amp;gt;)" vertex="1">
-          <mxGeometry height="26" width="450" y="26" as="geometry" />
+          <mxGeometry height="26" width="450" y="40" as="geometry" />
         </mxCell>
         <mxCell id="UiMmUJLFEJEY-4v1IqWj-107" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UiMmUJLFEJEY-4v1IqWj-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startSize=16;endArrow=block;endFill=0;endSize=16;" target="UiMmUJLFEJEY-4v1IqWj-99">
           <mxGeometry relative="1" as="geometry">
