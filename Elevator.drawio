@@ -390,7 +390,7 @@
         <mxCell id="UiMmUJLFEJEY-4v1IqWj-115" parent="UiMmUJLFEJEY-4v1IqWj-113" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
           <mxGeometry height="8" width="220" y="104" as="geometry" />
         </mxCell>
-        <mxCell id="UiMmUJLFEJEY-4v1IqWj-118" parent="UiMmUJLFEJEY-4v1IqWj-113" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="void addFloors()" vertex="1">
+        <mxCell id="UiMmUJLFEJEY-4v1IqWj-118" parent="UiMmUJLFEJEY-4v1IqWj-113" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="void addFloor(Floor f)" vertex="1">
           <mxGeometry height="26" width="220" y="112" as="geometry" />
         </mxCell>
         <mxCell id="UiMmUJLFEJEY-4v1IqWj-116" parent="UiMmUJLFEJEY-4v1IqWj-113" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="void setUnderMaintainance(Elevator e)" vertex="1">
